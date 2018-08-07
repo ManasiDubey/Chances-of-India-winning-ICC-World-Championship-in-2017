@@ -1,0 +1,2 @@
+ICC World championship is an ICC tournament played between top eight teams in ODI ranking. The teams are divided into 2 groups and within each group the four teams play in a league fashion and the top 2 teams of each groups qualify for semi-finals.
+There are many methods of analysing cricket matches but it has been found that in certain cases the methods prove to be biased and hence a new concept should be developed.
